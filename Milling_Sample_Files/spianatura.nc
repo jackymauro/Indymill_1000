@@ -1,0 +1,13 @@
+(spianatura)
+(Macchina)
+(  fornitore: Giacomomauro.com)
+(  model: Indymill 1000)
+(  description: Generic 3-axis)
+(T1  D=3.175 CR=0 - ZMIN=-1 - Fresa cilindrica)
+(***THIS FILE DOES NOT CONTAIN NC CODE***)
+(When using Fusion 360 for Personal Use, the feedrate of)
+(rapid moves is reduced to match the feedrate of cutting)
+(moves, which can increase machining time. Unrestricted rapid)
+(moves are available with a Fusion 360 Subscription.)
+
+(Load tool number 1 and subprogram spianatura_1_T1)
